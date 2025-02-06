@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    padding: 50x;
+    background-color: rgb(255, 255, 255);
+}
+
+h2{
+    text-align: center;
+    padding: 50x;
+    background-color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: #ffffff;
+}
+
+.centre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300;
+}
+
+pre{
+    text-align: right;
+    padding: 1000x;
+}
+
+.left{
+    text-align: right;
+    position: relative;
+}
+
+.right{
+    text-align: left;
+    position: absolute;
+}
+
+.options{
+    text-align: left;
+    padding-left: 50px;
+}
+
+h4{
+    text-align: left;
+    padding-left: 30px;
+}
