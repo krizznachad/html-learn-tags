@@ -1,0 +1,29 @@
+<doctype html>
+    <head>
+        <link rel="stylesheet" href="qp.css">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Easwari engineering college</title>
+    </head>
+    <body>
+        <img src="E:\ccc training\srmlogo.png" width="200" height="100" class="centre">
+        <hr><h1><u>Easwari Engineering College</u></h1>
+
+        <h2><u>Question paper</u></h2>
+        <hr>
+        <h3 class="right">duration:3 hours<br>
+        marks=100</h3>
+        <h3 class="left">date:9/11/11<br>
+        subj:EH</h3><hr>
+    <h1>MCQ(multiple choice questions)</h1>
+        <h4>1.What are the names of the two sister in overfolow?</h4>
+            <ul class="options">
+            <li>a.Ayane</li>
+            <li>b.Kotone</li>
+            <li>c.priya</li>
+            <li>d.sneha</li>
+        </ul>
+
+        
+        
+    </body>
